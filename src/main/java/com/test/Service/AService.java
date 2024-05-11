@@ -1,4 +1,4 @@
-package com.minis;
+package com.test.Service;
 
 /**
  * @author malin28
